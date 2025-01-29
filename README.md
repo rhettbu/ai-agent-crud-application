@@ -33,4 +33,7 @@ This project is a full-stack AI-powered application that allows users to Create,
 - Axios (API requests)
 - React Router (Navigation)
 - Tailwind CSS (Styling)
-
+## Support
+The platform’s backend repository is currently private. If you have any questions or need assistance, feel free to reach out:
+- Telegram [rhettjel](https://t.me/rhettjel).
+- Twitter [DeFiMaxi](https://x.com/defai_maxi)
