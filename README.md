@@ -34,35 +34,6 @@ This project is a full-stack AI-powered application that allows users to Create,
 - React Router (Navigation)
 - Tailwind CSS (Styling)
 
-## Project Structure
-
-ai-agent-app/
-│── backend/                # Backend (FastAPI)
-│   │── venv/               # Virtual Environment (Ignored in Git)
-│   │── main.py             # FastAPI application
-│   │── database.py         # Database setup
-│   │── models.py           # SQLAlchemy models
-│   │── crud.py             # CRUD functions
-│   │── schemas.py          # Pydantic models
-│   │── config.py           # Configuration settings
-│   │── requirements.txt    # Dependencies list
-│
-│── frontend/               # Frontend (React + TypeScript)
-│   │── src/
-│   │   │── api.ts          # API calls to backend
-│   │   │── App.tsx         # Main React app
-│   │   │── components/     # UI components
-│   │   └── pages/          # Different pages (CRUD forms)
-│   │── public/
-│   │── package.json        # Frontend dependencies
-│   └── tsconfig.json       # TypeScript config
-│
-│── .gitignore              # Ignore unnecessary files
-│── README.md               # Documentation
-│── docker-compose.yml      # Optional: For containerization
-└── .env                    # Environment variables (ignored in Git)
-
-
 ## API Endpoints
 
 
