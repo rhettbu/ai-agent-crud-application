@@ -34,12 +34,3 @@ This project is a full-stack AI-powered application that allows users to Create,
 - React Router (Navigation)
 - Tailwind CSS (Styling)
 
-## API Endpoints
-
-
-Method	  Endpoint	       Description
-POST	  /agents/	    Create an AI agent
-GET	   /agents/{name}	Retrieve an AI agent
-PUT	   /agents/{name}	Update an AI agent
-DELETE /agents/{name}	Delete an AI agent
-POST	 /ask-ai/	    AI Chatbot Interaction
